@@ -1,0 +1,16 @@
+# implementar crearCP, liberarCP, estaVaciaCP, estaEnCP, insertarEnCP (al menos si el elemento no está)
+estaVaciaCP
+estaEnCP 5
+insertarEnCP 5 1
+estaVaciaCP
+estaEnCP 5
+estaEnCP 6
+estaEnCP 11
+estaEnCP 0
+insertarEnCP 0 3
+insertarEnCP 11 3
+estaEnCP 5
+estaEnCP 6
+estaEnCP 11
+estaEnCP 0
+Fin

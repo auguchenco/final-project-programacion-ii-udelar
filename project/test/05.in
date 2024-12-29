@@ -1,0 +1,191 @@
+# Prueba de operaciones de mapping
+estaLlenoMap
+esClaveEnMap 5
+asociarEnMap 5 1.5
+esClaveEnMap 5
+estaLlenoMap
+desasociarEnMap 5
+esClaveEnMap 5
+estaLlenoMap
+asociarEnMap 5 2.5
+esClaveEnMap 5
+valorEnMap 5
+asociarEnMap 10 1.2
+asociarEnMap 20 1.3
+asociarEnMap 90 1.4
+asociarEnMap 80 1.5
+asociarEnMap 70 1.6
+asociarEnMap 60 1.7
+asociarEnMap 40 1.8
+asociarEnMap 30 1.9
+valorEnMap 5
+valorEnMap 30
+estaLlenoMap
+asociarEnMap 100 1.0
+estaLlenoMap
+reiniciarEstructuras
+# Prueba de operaciones de mapping
+esClaveEnMap 15
+asociarEnMap 12 1.2
+asociarEnMap 13 1.3
+asociarEnMap 14 1.4
+asociarEnMap 15 1.5
+esClaveEnMap 15
+estaLlenoMap
+desasociarEnMap 15
+esClaveEnMap 15
+asociarEnMap 15 1.5
+desasociarEnMap 15
+esClaveEnMap 15
+asociarEnMap 16 1.6
+valorEnMap 12
+valorEnMap 13
+valorEnMap 14
+valorEnMap 16
+desasociarEnMap 12
+desasociarEnMap 13
+desasociarEnMap 14
+desasociarEnMap 16
+estaLlenoMap
+reiniciarEstructuras
+# Prueba esAvl
+esAvl
+insertarEnAbb (23,23.0)
+esAvl
+insertarEnAbb (15,15.0)
+esAvl
+insertarEnAbb (30,30.0)
+insertarEnAbb (40,40.0)
+esAvl
+insertarEnAbb (10,10.0)
+esAvl
+insertarEnAbb (35,35.0)
+esAvl
+insertarEnAbb (45,45.0)
+esAvl
+insertarEnAbb (28,28.0)
+esAvl
+insertarEnAbb (50,50.0)
+esAvl
+insertarEnAbb (24,24.0)
+esAvl
+insertarEnAbb (5,5.0)
+esAvl
+insertarEnAbb (18,18.0)
+esAvl
+insertarEnAbb (4,4.0)
+esAvl
+insertarEnAbb (8,8.0)
+esAvl
+insertarEnAbb (12,12.0)
+esAvl
+insertarEnAbb (20,20.0)
+esAvl
+insertarEnAbb (11,11.0)
+insertarEnAbb (13,13.0)
+esAvl
+insertarEnAbb (14,14.0)
+esAvl
+insertarEnAbb (21,21.0)
+esAvl
+insertarEnAbb (16,16.0)
+esAvl
+insertarEnAbb (9,9.0)
+insertarEnAbb (6,6.0)
+esAvl
+insertarEnAbb (7,7.0)
+esAvl
+insertarEnAbb (2,2.0)
+esAvl
+insertarEnAbb (22,22.0)
+esAvl
+insertarEnAbb (19,19.0)
+esAvl
+insertarEnAbb (17,17.0)
+esAvl
+insertarEnAbb (55,55.0)
+esAvl
+insertarEnAbb (42,42.0)
+esAvl
+insertarEnAbb (37,37.0)
+esAvl
+insertarEnAbb (26,26.0)
+esAvl
+insertarEnAbb (29,29.0)
+esAvl
+reiniciarEstructuras
+# Prueba avlMin
+avlMin 1
+avlMin 2
+avlMin 3
+avlMin 4
+avlMin 5
+avlMin 10
+reiniciarEstructuras
+# Prueba de filtradaOrdenada
+filtradaOrdenada -1
+filtradaOrdenada 5 5
+insertarAlFinal 6 6.0
+filtradaOrdenada -1
+filtradaOrdenada 6 0
+filtradaOrdenada 5 6 7 0
+filtradaOrdenada 4 5 6 0
+insertarAlFinal 4 4.0
+insertarAlFinal 6 5.0
+filtradaOrdenada 6 0
+filtradaOrdenada 5 6 7 0
+filtradaOrdenada 4 5 6 0
+insertarAlFinal 5 5.0
+insertarAlInicio 123456789 1.0
+filtradaOrdenada 6 0
+filtradaOrdenada 5 6 7 0
+filtradaOrdenada 4 6 123456789 0
+insertarAlFinal 33 33.0
+insertarAlFinal 6 4.0
+insertarAlFinal 700000 7.0
+insertarAlFinal 4 3.0
+insertarAlFinal 4 5.0
+filtradaOrdenada 1 4 5 6 31 33 35 700000 123456789 0
+reiniciarEstructuras
+# Prueba de rotar
+rotar 20 LR
+insertarEnAbb (50,0)
+rotar 20 LR
+rotar 50 LR
+rotar 50 LL
+insertarEnAbb (30,0)
+insertarEnAbb (40,0)
+insertarEnAbb (45,0)
+rotar 50 LL
+imprimirAbb
+rotar 30 RR
+imprimirAbb
+rotar 50 LR
+imprimirAbb
+rotar 40 RL
+imprimirAbb
+rotar 30 LL
+imprimirAbb
+rotar 40 LR
+imprimirAbb
+insertarEnAbb (35,0)
+rotar 40 LR
+imprimirAbb
+insertarEnAbb (70,0)
+insertarEnAbb (60,0)
+insertarEnAbb (65,0)
+insertarEnAbb (90,0)
+insertarEnAbb (80,0)
+insertarEnAbb (55,0)
+imprimirAbb
+rotar 70 RL
+imprimirAbb
+rotar 80 LL
+imprimirAbb
+rotar 70 RR
+imprimirAbb
+rotar 50 RL
+imprimirAbb
+rotar 70 LR
+imprimirAbb
+Fin

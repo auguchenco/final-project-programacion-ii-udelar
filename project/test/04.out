@@ -1,0 +1,508 @@
+1>La cantidad es 0.
+2>5 no está en la cadena.
+3>
+4>Se insertó (0,0.00) al inicio de la cadena.
+5>Se insertó (2,2.00) al inicio de la cadena.
+6>Se insertó (8,8.00) al inicio de la cadena.
+7>Se insertó (3,3.00) al inicio de la cadena.
+8>Se insertó (7,7.00) al inicio de la cadena.
+9>Se insertó (4,4.00) al inicio de la cadena.
+10>Se insertó (6,6.00) al inicio de la cadena.
+11>Se insertó (1,1.00) al inicio de la cadena.
+12>Se insertó (5,5.00) al final de la cadena.
+13>Se insertó (5,15.10) al final de la cadena.
+14>Se insertó (5,25.20) al final de la cadena.
+15>Se insertó (5,35.30) al final de la cadena.
+16>La cantidad es 12.
+17>1 está en la cadena.
+18>5 está en la cadena.
+19>0 está en la cadena.
+20>6 está en la cadena.
+21>9 no está en la cadena.
+22>Se removió la primera aparición de 5 de la cadena.
+23>Se removió la primera aparición de 1 de la cadena.
+24>(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(5,15.10)(5,25.20)(5,35.30)
+25>(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(5,15.10)(5,25.20)(5,35.30)
+26>(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(5,15.10)(5,25.20)(5,35.30)(6,6.00)
+27>(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(5,15.10)(5,25.20)(5,35.30)(6,6.00)(4,4.00)
+28>El primero es (6,6.00)
+29>(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(5,15.10)(5,25.20)(5,35.30)
+30>(5,25.20)(5,35.30)(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(5,15.10)
+31>(5,35.30)(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(5,15.10)(5,25.20)
+32>Se removió la primera aparición de 5 de la cadena.
+33>La cantidad es 9.
+34>El primero es (6,6.00)
+35>(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(5,25.20)(5,35.30)
+36>(5,35.30)(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(5,25.20)
+37>La cantidad es 9.
+38>El primero es (6,6.00)
+39>(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(5,25.20)(5,35.30)
+40>(5,25.20)(5,35.30)(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)
+41>(5,35.30)(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(5,25.20)
+42>(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(5,25.20)(5,35.30)
+43>La cantidad en la cadena 0 es 0.
+44>La cantidad en la cadena 9 es 0.
+45>5 no está en la cadena 0.
+46>5 no está en la cadena 9.
+47>Se insertó (3,3.00) en la cadena 0.
+48>3 está en la cadena 0.
+49>3 no está en la cadena 1.
+50>Se insertó (3,13.10) en la cadena 9.
+51>Se insertó (3,13.10) en la cadena 5.
+52>3 está en la cadena 9.
+53>3 está en la cadena 5.
+54>Se insertó (8,8.00) en la cadena 0.
+55>Se insertó (9,9.00) en la cadena 0.
+56>La cantidad en la cadena 0 es 3.
+57>La cantidad en la cadena 1 es 0.
+58>La cantidad en la cadena 5 es 1.
+59>La cantidad en la cadena 9 es 1.
+60>9 está en la cadena 0.
+61>9 no está en la cadena 5.
+62>6 no está en la cadena 5.
+63>4 no está en la cadena 0.
+64>4 no está en la cadena 9.
+65>La primera aparición de 3 en la cadena 0 es (3,3.00)
+66>La primera aparición de 3 en la cadena 5 es (3,13.10)
+67>La primera aparición de 3 en la cadena 9 es (3,13.10)
+68>La primera aparición de 9 en la cadena 0 es (9,9.00)
+69>Se removió la primera aparición de 3 de la cadena 0.
+70>3 no está en la cadena 0.
+71>Actual de it NO está definida.
+72>Agregando 5 a it.
+73>Actual de it NO está definida.
+74>Reiniciando it.
+75>Actual de it está definida.
+76>Agregando 5 a it.
+77>Reiniciando it.
+78>Actual de it está definida.
+79>Agregando 5 a it.
+80>Agregando 5 a it.
+81>Agregando 5 a it.
+82>Reiniciando it.
+83>Actual de it está definida.
+84>El actual de it es 5.
+85>Agregando 5 a it.
+86>Agregando 6 a it.
+87>Agregando 7 a it.
+88>Reiniciando it.
+89>Actual de it está definida.
+90>El actual de it es 5.
+91>Avanzando en it.
+92>Actual de it está definida.
+93>Agregando 5 a it.
+94>Avanzando en it.
+95>Actual de it está definida.
+96>Reiniciando it.
+97>Actual de it está definida.
+98>El actual de it es 5.
+99>Avanzando en it.
+100>Actual de it está definida.
+101>Avanzando en it.
+102>El actual de it es 5.
+103>5 7 6 5 5 5 5 5 5 
+104>El abb es vacío.
+105>5 no está en el abb.
+106>Se insertó (5,5.00) en el abb.
+107>El abb NO es vacío.
+108>(5,5.00)
+109>3 no está en el abb.
+110>La raíz del abb es: (5,5.00)
+111>El abb no tiene hijo izquierdo.
+112>El abb no tiene hijo derecho.
+113>Se insertó (50,50.00) en el abb.
+114>Se insertó (90,90.00) en el abb.
+115>80 no está en el abb.
+116>(90,90.00)
+117>Se insertó (85,85.00) en el abb.
+118>Se insertó (40,40.00) en el abb.
+119>Se insertó (4,4.00) en el abb.
+120>Se insertó (2,2.00) en el abb.
+121>Se insertó (7,7.00) en el abb.
+122>Se insertó (6,6.00) en el abb.
+123>Se insertó (11,11.00) en el abb.
+124>Se insertó (18,18.00) en el abb.
+125>Se insertó (17,17.00) en el abb.
+126>La raíz del abb es: (5,5.00)
+127>La raíz del hijo izquierdo del abb es: (4,4.00)
+128>La raíz del hijo derecho del abb es: (50,50.00)
+129>El menor en el abb es: (2,2.00)
+130>El mayor en el abb es: (90,90.00)
+131>12 no está en el abb.
+132>(5,5.00)
+133>(18,18.00)
+134>Se removió 5 del abb.
+135>5 no está en el abb.
+136>El abb NO es vacío.
+137>Se removió 2 del abb.
+138>El menor en el abb es: (4,4.00)
+139>El mayor en el abb es: (90,90.00)
+140>La raíz del hijo derecho del abb es: (50,50.00)
+141>2 no está en el abb.
+142>(17,17.00)
+143>38 no está en el abb.
+144>La raíz del abb es: (4,4.00)
+145>El abb no tiene hijo izquierdo.
+146>La raíz del hijo derecho del abb es: (50,50.00)
+147>(4,4.00)(6,6.00)(7,7.00)(11,11.00)(17,17.00)(18,18.00)(40,40.00)(50,50.00)(85,85.00)(90,90.00)
+148>
+--(90,90.00)
+---(85,85.00)
+-(50,50.00)
+--(40,40.00)
+-----(18,18.00)
+------(17,17.00)
+----(11,11.00)
+---(7,7.00)
+----(6,6.00)
+(4,4.00)
+149>
+(10,10.00)
+150>El abb NO es vacío.
+151>Se insertó (5,5.00) en el abb.
+152>(4,4.00)(5,5.00)(6,6.00)(7,7.00)(11,11.00)(17,17.00)(18,18.00)(40,40.00)(50,50.00)(85,85.00)(90,90.00)
+153>
+--(90,90.00)
+---(85,85.00)
+-(50,50.00)
+--(40,40.00)
+-----(18,18.00)
+------(17,17.00)
+----(11,11.00)
+---(7,7.00)
+----(6,6.00)
+-----(5,5.00)
+(4,4.00)
+154>
+(9,9.00)
+-(5,5.00)
+155>
+-(5,5.00)
+(3,3.00)
+156>Se insertó (2,2.00) en el abb.
+157>Se insertó (30,30.00) en el abb.
+158>(2,2.00)(4,4.00)(5,5.00)(6,6.00)(7,7.00)(11,11.00)(17,17.00)(18,18.00)(30,30.00)(40,40.00)(50,50.00)(85,85.00)(90,90.00)
+159>
+--(90,90.00)
+---(85,85.00)
+-(50,50.00)
+--(40,40.00)
+------(30,30.00)
+-----(18,18.00)
+------(17,17.00)
+----(11,11.00)
+---(7,7.00)
+----(6,6.00)
+-----(5,5.00)
+(4,4.00)
+-(2,2.00)
+160>
+--(90,90.00)
+---(85,85.00)
+-(50,50.00)
+--(40,40.00)
+------(30,30.00)
+-----(18,18.00)
+------(17,17.00)
+----(11,11.00)
+---(7,7.00)
+----(6,6.00)
+-----(5,5.00)
+(4,4.00)
+-(2,2.00)
+161>
+-(90,90.00)
+--(85,85.00)
+(26,26.00)
+-(6,6.00)
+--(5,5.00)
+162>Estructuras reiniciadas.
+163>El abb es perfecto.
+164>Se insertó (20,20.00) en el abb.
+165>El abb es perfecto.
+166>Se insertó (30,30.00) en el abb.
+167>Se insertó (10,10.00) en el abb.
+168>Se insertó (5,5.00) en el abb.
+169>Se insertó (15,15.00) en el abb.
+170>Se insertó (25,25.00) en el abb.
+171>Se insertó (35,35.00) en el abb.
+172>El abb es perfecto.
+173>Se insertó (2,2.00) en el abb.
+174>Se insertó (7,7.00) en el abb.
+175>Se insertó (12,12.00) en el abb.
+176>Se insertó (17,17.00) en el abb.
+177>Se insertó (22,22.00) en el abb.
+178>Se insertó (27,27.00) en el abb.
+179>Se insertó (32,32.00) en el abb.
+180>El abb NO es perfecto.
+181>Se insertó (37,37.00) en el abb.
+182>El abb es perfecto.
+183>Estructuras reiniciadas.
+184>
+185>Se insertó (20,20.00) en el abb.
+186>
+187>
+(20,20.00)
+188>Se insertó (15,25.00) en el abb.
+189>
+(20,20.00)
+190>
+(20,20.00)
+191>
+(20,20.00)
+-(15,25.00)
+192>Se insertó (10,10.00) en el abb.
+193>
+(10,10.00)
+194>Se insertó (40,11.00) en el abb.
+195>
+(10,10.00)
+196>
+-(40,11.00)
+(10,10.00)
+197>Se insertó (50,5.00) en el abb.
+198>
+(50,5.00)
+199>
+-(50,5.00)
+(10,10.00)
+200>Se insertó (30,15.00) en el abb.
+201>Se insertó (25,6.00) en el abb.
+202>Se insertó (35,10.00) en el abb.
+203>
+-(50,5.00)
+(25,6.00)
+204>
+--(50,5.00)
+-(35,10.00)
+--(25,6.00)
+(10,10.00)
+205>
+(50,5.00)
+206>Se insertó (32,5.00) en el abb.
+207>
+-(50,5.00)
+(32,5.00)
+208>
+--(50,5.00)
+-(40,11.00)
+---(35,10.00)
+----(32,5.00)
+--(25,6.00)
+(10,10.00)
+209>Se insertó (27,4.00) en el abb.
+210>
+(27,4.00)
+211>
+--(50,5.00)
+-(40,11.00)
+---(35,10.00)
+----(32,5.00)
+--(27,4.00)
+---(25,6.00)
+(10,10.00)
+212>
+--(50,5.00)
+-(35,10.00)
+---(32,5.00)
+--(27,4.00)
+---(25,6.00)
+(10,10.00)
+213>Estructuras reiniciadas.
+214>Se insertó (20,20.00) en el abb.
+215>Se insertó (15,25.00) en el abb.
+216>Se insertó (10,10.00) en el abb.
+217>Se insertó (40,11.00) en el abb.
+218>Se insertó (50,5.00) en el abb.
+219>Se insertó (30,15.00) en el abb.
+220>Se insertó (25,6.00) en el abb.
+221>Se insertó (35,10.00) en el abb.
+222>Se insertó (32,5.00) en el abb.
+223>Se insertó (27,4.00) en el abb.
+224>
+--(50,5.00)
+-(40,11.00)
+---(35,10.00)
+----(32,5.00)
+--(30,15.00)
+----(27,4.00)
+---(25,6.00)
+(20,20.00)
+-(15,25.00)
+--(10,10.00)
+225>
+La posición actual NO está definida.
+226>20 
+La posición actual NO está definida.
+227>
+La posición actual NO está definida.
+228>40 
+La posición actual NO está definida.
+229>40 20 
+La posición actual NO está definida.
+230>40 20 
+La posición actual NO está definida.
+231>
+La posición actual NO está definida.
+232>15 
+La posición actual NO está definida.
+233>15 20 
+La posición actual NO está definida.
+234>15 20 
+La posición actual NO está definida.
+235>
+La posición actual NO está definida.
+236>35 30 
+La posición actual NO está definida.
+237>
+La posición actual NO está definida.
+238>32 35 30 40 
+La posición actual NO está definida.
+239>32 35 30 40 20 
+La posición actual NO está definida.
+240>Insertando al.
+241>Insertando cal.
+242>Insertando can.
+243>Insertando la.
+244>Insertando los.
+245>Insertando losas.
+246>Insertando mensaje.
+247>
+al
+la
+248>
+al
+cal
+can
+la
+los
+losas
+mensaje
+249>
+cal
+can
+250>
+mensaje
+251>
+losas
+252>
+mensaje
+253>Estructuras reiniciadas.
+254>La cadena está ordenada.
+255>Se insertó (51,0.00) al inicio de la cadena.
+256>Se insertó (50,1.00) al inicio de la cadena.
+257>Se insertó (50,0.00) al inicio de la cadena.
+258>Se removió la primera aparición de 50 de la cadena.
+259>Se insertó (40,0.00) al inicio de la cadena.
+260>Se insertó (40,0.00) al inicio de la cadena.
+261>Se insertó (30,0.00) al inicio de la cadena.
+262>La cadena no está ordenada.
+263>Se removió la primera aparición de 40 de la cadena.
+264>La cadena está ordenada.
+265>Estructuras reiniciadas.
+266>
+267>
+(50,0.00)
+268>
+-(50,0.00)
+(40,0.00)
+269>
+---(1000,0.00)
+--(70,0.00)
+-(60,0.00)
+--(50,0.00)
+(40,0.00)
+--(30,0.00)
+-(20,0.00)
+--(10,0.00)
+270>Estructuras reiniciadas.
+271>
+272>(50,0.00)
+273>(50,0.00)
+274>(15,0.00)(20,1.00)(30,0.00)(40,3.00)(50,3.00)(55,0.00)
+275>Estructuras reiniciadas.
+276>
+277>
+(50,0.00)
+278>
+(40,0.00)
+279>
+--(50,3.00)
+-(40,0.00)
+(30,0.00)
+-(20,0.00)
+280>Estructuras reiniciadas.
+281>Cantidad en pila: 0.
+282>Apilando (3,3.00)
+283>Cantidad en pila: 1.
+284>(3,3.00)
+285>Desapilando.
+286>Apilando (5,5.00)
+287>Apilando (6,5.00)
+288>Apilando (3,5.00)
+289>Apilando (8,5.00)
+290>Apilando (2,5.00)
+291>Apilando (1,5.00)
+292>Apilando (10,5.00)
+293>Apilando (5,3.00)
+294>(5,3.00)
+295>Cantidad en pila: 8.
+296>Desapilando.
+297>Cantidad en cola: 0.
+298>Encolando (3,3.00)
+299>Cantidad en cola: 1.
+300>(3,3.00)
+301>Desencolando.
+302>Cantidad en cola: 0.
+303>Encolando (5,5.00)
+304>Encolando (6,5.00)
+305>Encolando (3,5.00)
+306>Encolando (8,5.00)
+307>Encolando (2,5.00)
+308>Encolando (1,5.00)
+309>Encolando (10,5.00)
+310>Encolando (5,3.00)
+311>(5,5.00)
+312>Cantidad en cola: 8.
+313>Desencolando.
+314>(6,5.00)
+315>Cantidad en cola: 7.
+316>Estructuras reiniciadas.
+317>
+318>Se insertó (50,50.00) al inicio de la cadena.
+319>Se insertó (50,60.00) al inicio de la cadena.
+320>Se insertó (11,11.00) al inicio de la cadena.
+321>Se insertó (40,40.00) al final de la cadena.
+322>Se insertó (54,0.00) al final de la cadena.
+323>Se insertó (49,0.00) al final de la cadena.
+324>Se insertó (121,0.00) al final de la cadena.
+325>Se insertó (18,0.00) al final de la cadena.
+326>(54,0.00)(18,0.00)(11,11.00)(40,40.00)(49,0.00)(121,0.00)(50,60.00)(50,50.00)
+327>(49,0.00)(50,60.00)(50,50.00)(121,0.00)(11,11.00)(18,0.00)(40,40.00)(54,0.00)
+328>(11,11.00)(121,0.00)(49,0.00)(50,60.00)(50,50.00)(40,40.00)(18,0.00)(54,0.00)
+329>(54,0.00)(18,0.00)(49,0.00)(121,0.00)(50,60.00)(50,50.00)(40,40.00)(11,11.00)
+330>Estructuras reiniciadas.
+331>
+332>Se insertó (50,50.00) al inicio de la cadena.
+333>(50,50.00)
+334>Se insertó (60,40.00) al inicio de la cadena.
+335>(50,50.00)
+336>Se insertó (60,60.00) al final de la cadena.
+337>Se insertó (60,70.00) al final de la cadena.
+338>Se insertó (50,40.00) al inicio de la cadena.
+339>Se insertó (30,30.00) al inicio de la cadena.
+340>Se insertó (40,40.00) al final de la cadena.
+341>Se insertó (50,5.00) al final de la cadena.
+342>Se insertó (61,60.00) al final de la cadena.
+343>Se insertó (62,60.00) al final de la cadena.
+344>Se insertó (63,60.00) al final de la cadena.
+345>Se insertó (64,60.00) al final de la cadena.
+346>Se insertó (65,60.00) al final de la cadena.
+347>Se insertó (60,60.00) al final de la cadena.
+348>Se insertó (70,70.00) al final de la cadena.
+349>Se insertó (60,6.00) al final de la cadena.
+350>Se insertó (70,7.00) al final de la cadena.
+351>(70,7.00)(60,6.00)(50,5.00)(40,40.00)(30,30.00)
+352>Se insertó (10,1.00) al final de la cadena.
+353>(10,1.00)
+354>Fin.

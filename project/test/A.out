@@ -1,0 +1,40 @@
+1>En la cp no está 0.
+2>En la cp no está 1.
+3>En la cp no está 10.
+4>En la cp no está 11.
+5>La cp está vacia.
+6>Se intenta insertar 1 con prioridad 2.00.
+7>La cp está no vacía.
+8>El prioritario es 1
+9>La prioridad de 1 es 2.00.
+10>Se intenta insertar 1 con prioridad 1.00.
+11>La prioridad de 1 es 1.00.
+12>Se intenta eliminar el prioritario.
+13>Se intenta insertar 2 con prioridad 10.00.
+14>El prioritario es 2
+15>Se intenta eliminar el prioritario.
+16>Se intenta insertar 1 con prioridad 1.00.
+17>Se intenta insertar 2 con prioridad 10.00.
+18>Se intenta insertar 3 con prioridad 9.00.
+19>Se intenta insertar 4 con prioridad 8.00.
+20>Se intenta insertar 5 con prioridad 7.00.
+21>Se intenta insertar 6 con prioridad 6.00.
+22>Se intenta insertar 7 con prioridad 5.00.
+23>Se intenta insertar 8 con prioridad 4.00.
+24>Se intenta insertar 9 con prioridad 3.00.
+25>Se intenta insertar 10 con prioridad -1.00.
+26>Se intenta insertar 1 con prioridad 1.00.
+27>El prioritario es 10
+28>La prioridad de 1 es 1.00.
+29>La prioridad de 10 es -1.00.
+30>En la cp está 1.
+31>En la cp está 2.
+32>En la cp está 10.
+33>La prioridad de 1 es 1.00.
+34>La prioridad de 2 es 10.00.
+35>La prioridad de 10 es -1.00.
+36>Se intenta eliminar el prioritario.
+37>El prioritario es 1
+38>Se intenta eliminar el prioritario.
+39>El prioritario es 9
+40>Fin.

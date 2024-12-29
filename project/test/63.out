@@ -1,0 +1,43 @@
+1>#  implementar eliminarPriorotario.
+2>Se intenta eliminar el prioritario.
+3>Se intenta insertar 8 con prioridad -1.00.
+4>En la cp está 8.
+5>El prioritario es 8
+6>Se intenta eliminar el prioritario.
+7>En la cp no está 8.
+8>La cp está vacia.
+9>Se intenta insertar 7 con prioridad 7.00.
+10>Se intenta insertar 10 con prioridad -0.50.
+11>Se intenta insertar 1 con prioridad 12.00.
+12>Se intenta insertar 2 con prioridad 2.00.
+13>Se intenta insertar 8 con prioridad -1.00.
+14>Se intenta insertar 9 con prioridad 9.20.
+15>Se intenta insertar 5 con prioridad 5.20.
+16>Se intenta insertar 3 con prioridad 3.30.
+17>Se intenta insertar 4 con prioridad 4.00.
+18>El prioritario es 8
+19>Se intenta eliminar el prioritario.
+20>El prioritario es 10
+21>Se intenta eliminar el prioritario.
+22>El prioritario es 2
+23>Se intenta insertar 6 con prioridad -16.20.
+24>Se intenta insertar 8 con prioridad 1.00.
+25>Se intenta insertar 10 con prioridad 3.50.
+26>El prioritario es 6
+27>Se intenta eliminar el prioritario.
+28>El prioritario es 8
+29>Se intenta eliminar el prioritario.
+30>El prioritario es 2
+31>Se intenta eliminar el prioritario.
+32>Se intenta eliminar el prioritario.
+33>Se intenta eliminar el prioritario.
+34>Se intenta eliminar el prioritario.
+35>Se intenta eliminar el prioritario.
+36>Se intenta eliminar el prioritario.
+37>Se intenta eliminar el prioritario.
+38>La cp está no vacía.
+39>El prioritario es 1
+40>La prioridad de 1 es 12.00.
+41>Se intenta eliminar el prioritario.
+42>La cp está vacia.
+43>Fin.

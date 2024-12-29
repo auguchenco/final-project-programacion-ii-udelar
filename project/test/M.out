@@ -1,0 +1,234 @@
+1>Estructuras reiniciadas.
+2>
+3>Se insertó (5,5.00) al inicio de la cadena.
+4>El primero es (5,5.00)
+5>Se removió la primera aparición de 5 de la cadena.
+6>Se insertó (3,3.00) al inicio de la cadena.
+7>Se insertó (2,2.00) al inicio de la cadena.
+8>La cadena está ordenada.
+9>Se insertó (6,6.00) al inicio de la cadena.
+10>Se insertó (5,5.00) al inicio de la cadena.
+11>Se insertó (8,6.00) al inicio de la cadena.
+12>La cadena no está ordenada.
+13>Se removió la primera aparición de 6 de la cadena.
+14>Se removió la primera aparición de 3 de la cadena.
+15>Se removió la primera aparición de 8 de la cadena.
+16>La cantidad es 2.
+17>5 está en la cadena.
+18>El elemento es (5,5.00)
+19>(5,5.00)(2,2.00)
+20>Actual de it NO está definida.
+21>Agregando 5 a it.
+22>Reiniciando it.
+23>El actual de it es 5.
+24>Avanzando en it.
+25>Agregando 6 a it.
+26>Agregando 7 a it.
+27>Agregando 8 a it.
+28>Agregando 9 a it.
+29>Agregando 10 a it.
+30>Reiniciando it.
+31>El actual de it es 5.
+32>Avanzando en it.
+33>El actual de it es 6.
+34>
+35>
+36>El abb es vacío.
+37>El abb es perfecto.
+38>10 no está en el abb.
+39>
+40>Se insertó (5,5.00) en el abb.
+41>El abb es perfecto.
+42>
+(5,5.00)
+43>El menor en el abb es: (5,5.00)
+44>El mayor en el abb es: (5,5.00)
+45>La raíz del abb es: (5,5.00)
+46>El abb no tiene hijo izquierdo.
+47>El abb no tiene hijo derecho.
+48>Se insertó (3,3.00) en el abb.
+49>Se insertó (1,1.00) en el abb.
+50>
+(5,5.00)
+-(3,3.00)
+--(1,1.00)
+51>(1,1.00)(3,3.00)(5,5.00)
+52>Se insertó (9,8.00) en el abb.
+53>Se insertó (8,9.00) en el abb.
+54>El abb NO es perfecto.
+55>8 9 5 
+La posición actual NO está definida.
+56>8 
+La posición actual NO está definida.
+57>
+58>
+-(9,8.00)
+--(8,9.00)
+(5,5.00)
+-(3,3.00)
+--(1,1.00)
+59>El menor en el abb es: (1,1.00)
+60>El mayor en el abb es: (9,8.00)
+61>
+(6,6.00)
+62>
+(6,6.00)
+-(3,3.00)
+--(1,1.00)
+63>
+-(9,8.00)
+--(8,9.00)
+(6,6.00)
+64>Se removió 9 del abb.
+65>Se removió 5 del abb.
+66>Apilando (3,3.00)
+67>Desapilando.
+68>Cantidad en pila: 0.
+69>Apilando (3,3.00)
+70>Apilando (3,3.00)
+71>Apilando (3,3.00)
+72>Apilando (3,3.00)
+73>Desapilando.
+74>(3,3.00)
+75>Encolando (3,3.00)
+76>Desencolando.
+77>Cantidad en cola: 0.
+78>Encolando (3,3.00)
+79>Encolando (3,3.00)
+80>Encolando (3,3.00)
+81>Encolando (3,3.00)
+82>Desencolando.
+83>(3,3.00)
+84>
+85>(50,0.00)
+86>(50,0.00)
+87>(15,0.00)(20,1.00)(30,0.00)(40,3.00)(50,3.00)(55,0.00)
+88>
+89>
+(50,0.00)
+90>
+-(50,0.00)
+(40,0.00)
+91>
+-(50,0.00)
+(40,0.00)
+-(30,0.00)
+92>
+93>
+(50,0.00)
+94>
+(40,0.00)
+95>
+--(50,3.00)
+-(40,0.00)
+(30,0.00)
+-(20,0.00)
+96>(2,2.00)(5,5.00)
+97>Se insertó (50,50.00) al inicio de la cadena.
+98>(50,50.00)(2,2.00)(5,5.00)
+99>Se insertó (50,60.00) al inicio de la cadena.
+100>Se insertó (11,11.00) al inicio de la cadena.
+101>Se insertó (40,40.00) al final de la cadena.
+102>(50,60.00)(50,50.00)(2,2.00)(40,40.00)(11,11.00)(5,5.00)
+103>(40,40.00)(11,11.00)(50,60.00)(50,50.00)(5,5.00)(2,2.00)
+104>(40,40.00)(5,5.00)(50,60.00)(50,50.00)(2,2.00)(11,11.00)
+105>(40,40.00)(2,2.00)
+106>Se insertó (50,50.00) al inicio de la cadena.
+107>(40,40.00)(2,2.00)
+108>Se insertó (50,5.00) al final de la cadena.
+109>Se insertó (61,60.00) al final de la cadena.
+110>Se insertó (62,60.00) al final de la cadena.
+111>(62,60.00)(61,60.00)(50,5.00)(40,40.00)(2,2.00)
+112>Estructuras reiniciadas.
+113>Se insertó (5,5.00) al inicio de la cadena.
+114>(5,5.00)
+115>Se insertó (3,3.00) en el abb.
+116>
+(3,3.00)
+117>Apilando (3,3.00)
+118>(3,3.00)
+119>Encolando (3,3.00)
+120>(3,3.00)
+121>No lleno.
+122>No existe asociacion.
+123>Establecida la asociación.
+124>Eliminada la asociación.
+125>No existe asociacion.
+126>No lleno.
+127>Establecida la asociación.
+128>Existe asociacion.
+129>Establecida la asociación.
+130>Establecida la asociación.
+131>Establecida la asociación.
+132>Establecida la asociación.
+133>Establecida la asociación.
+134>Establecida la asociación.
+135>Establecida la asociación.
+136>Establecida la asociación.
+137>2.50
+138>1.90
+139>No lleno.
+140>Establecida la asociación.
+141>Eliminada la asociación.
+142>Es AVL.
+143>Se insertó (50,0.00) en el abb.
+144>Es AVL.
+145>Se insertó (20,0.00) en el abb.
+146>Se insertó (70,0.00) en el abb.
+147>Se insertó (15,0.00) en el abb.
+148>NO es AVL.
+149>-(4,0.00)
+(3,0.00)
+-(2,0.00)
+--(1,0.00)
+150>(5,5.00)
+151>Se insertó (6,6.00) al final de la cadena.
+152>
+153>(6,6.00)
+154>Se insertó (6,5.00) al final de la cadena.
+155>(5,5.00)(6,11.00)
+156>La cp está vacia.
+157>En la cp no está 5.
+158>Se intenta eliminar el prioritario.
+159>Se cambió el criterio de prioridad.
+160>Se intenta insertar 5 con prioridad 1.00.
+161>El prioritario es 5
+162>La prioridad de 5 es 1.00.
+163>Se intenta eliminar el prioritario.
+164>Se cambió el criterio de prioridad.
+165>Se intenta insertar 5 con prioridad 1.00.
+166>Se intenta insertar 5 con prioridad 15.00.
+167>Se intenta insertar 6 con prioridad 1.50.
+168>Se intenta insertar 8 con prioridad -1.00.
+169>Se intenta insertar 7 con prioridad 7.00.
+170>Se intenta insertar 10 con prioridad -0.50.
+171>Se intenta insertar 1 con prioridad 12.00.
+172>Se intenta insertar 2 con prioridad 2.00.
+173>Se intenta insertar 9 con prioridad 9.20.
+174>Se intenta insertar 3 con prioridad 3.30.
+175>Se intenta insertar 4 con prioridad 4.00.
+176>En la cp está 5.
+177>La prioridad de 5 es 15.00.
+178>El prioritario es 8
+179>En la cp está 8.
+180>La prioridad de 8 es -1.00.
+181>Se intenta eliminar el prioritario.
+182>El prioritario es 10
+183>En la cp está 5.
+184>Se cambió el criterio de prioridad.
+185>El prioritario es 5
+186>Se intenta eliminar el prioritario.
+187>El prioritario es 1
+188>Se intenta eliminar el prioritario.
+189>Se intenta eliminar el prioritario.
+190>Se intenta eliminar el prioritario.
+191>Se intenta eliminar el prioritario.
+192>Se intenta eliminar el prioritario.
+193>Se intenta eliminar el prioritario.
+194>Se intenta eliminar el prioritario.
+195>La cp está no vacía.
+196>El prioritario es 10
+197>Se intenta eliminar el prioritario.
+198>La cp está vacia.
+199>Se intenta eliminar el prioritario.
+200>Fin.

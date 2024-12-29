@@ -1,0 +1,13 @@
+invertirPrioridad
+insertarEnCP 1 2
+invertirPrioridad
+estaEnCP 1
+prioritario
+insertarEnCP 2 10
+insertarEnCP 3 9
+insertarEnCP 4 8
+insertarEnCP 5 7
+prioritario
+invertirPrioridad
+prioritario
+Fin

@@ -1,0 +1,43 @@
+# implementar eliminarPriorotario
+eliminarPrioritario
+insertarEnCP 8 -1.0
+estaEnCP 8
+prioritario
+eliminarPrioritario
+estaEnCP 8
+estaVaciaCP
+insertarEnCP 7 7.0
+insertarEnCP 10 -0.5
+insertarEnCP 1 12.0
+insertarEnCP 2 2.0
+insertarEnCP 8 -1.0
+insertarEnCP 9 9.2
+insertarEnCP 5 5.2
+insertarEnCP 3 3.3
+insertarEnCP 4 4.0
+prioritario
+eliminarPrioritario
+prioritario
+eliminarPrioritario
+prioritario
+insertarEnCP 6 -16.2
+insertarEnCP 8 1.0
+insertarEnCP 10 3.5
+prioritario
+eliminarPrioritario
+prioritario
+eliminarPrioritario
+prioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+estaVaciaCP
+prioritario
+prioridad 1
+eliminarPrioritario
+estaVaciaCP
+Fin

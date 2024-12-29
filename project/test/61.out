@@ -1,0 +1,16 @@
+1>#  implementar crearCP, liberarCP, estaVaciaCP, estaEnCP, insertarEnCP (al menos si el elemento no está).
+2>La cp está vacia.
+3>En la cp no está 5.
+4>Se intenta insertar 5 con prioridad 1.00.
+5>La cp está no vacía.
+6>En la cp está 5.
+7>En la cp no está 6.
+8>En la cp no está 11.
+9>En la cp no está 0.
+10>Se intenta insertar 0 con prioridad 3.00.
+11>Se intenta insertar 11 con prioridad 3.00.
+12>En la cp está 5.
+13>En la cp no está 6.
+14>En la cp no está 11.
+15>En la cp no está 0.
+16>Fin.

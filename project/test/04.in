@@ -1,0 +1,354 @@
+cantidadEnCadena
+estaEnCadena 5
+imprimirCadena
+insertarAlInicio 0 0.0
+insertarAlInicio 2 2.0
+insertarAlInicio 8 8.0
+insertarAlInicio 3 3.0
+insertarAlInicio 7 7.0
+insertarAlInicio 4 4.0
+insertarAlInicio 6 6.0
+insertarAlInicio 1 1.0
+insertarAlFinal 5 5.0
+insertarAlFinal 5 15.1
+insertarAlFinal 5 25.2
+insertarAlFinal 5 35.3
+cantidadEnCadena
+estaEnCadena 1
+estaEnCadena 5
+estaEnCadena 0
+estaEnCadena 6
+estaEnCadena 9
+removerDeCadena 5
+removerDeCadena 1
+imprimirCadena
+cadenaSiguiente 0
+cadenaSiguiente 1
+cadenaSiguiente 2
+primeroEnCadena
+cadenaSiguiente 0
+cadenaSiguiente 8
+cadenaSiguiente 9
+removerDeCadena 5
+cantidadEnCadena
+primeroEnCadena
+cadenaSiguiente 0
+cadenaSiguiente 8
+cantidadEnCadena
+primeroEnCadena
+cadenaSiguiente 0
+cadenaSiguiente 7
+cadenaSiguiente 8
+copiaCadena
+cantidadColCadenas 0
+cantidadColCadenas 9
+estaEnColCadenas 5 0
+estaEnColCadenas 5 9
+insertarEnColCadenas 3 3.0 0
+estaEnColCadenas 3 0
+estaEnColCadenas 3 1
+insertarEnColCadenas 3 13.1 9
+insertarEnColCadenas 3 13.1 5
+estaEnColCadenas 3 9
+estaEnColCadenas 3 5
+insertarEnColCadenas 8 8.0 0
+insertarEnColCadenas 9 9.0 0
+cantidadColCadenas 0
+cantidadColCadenas 1
+cantidadColCadenas 5
+cantidadColCadenas 9
+estaEnColCadenas 9 0
+estaEnColCadenas 9 5
+estaEnColCadenas 6 5
+estaEnColCadenas 4 0
+estaEnColCadenas 4 9
+infoEnColCadenas 3 0
+infoEnColCadenas 3 5
+infoEnColCadenas 3 9
+infoEnColCadenas 9 0
+removerDeColCadenas 3 0
+estaEnColCadenas 3 0
+estaDefinidaActual
+agregarAIterador 5
+estaDefinidaActual
+reiniciarIterador
+estaDefinidaActual
+agregarAIterador 5
+reiniciarIterador
+estaDefinidaActual
+agregarAIterador 5
+agregarAIterador 5
+agregarAIterador 5
+reiniciarIterador
+estaDefinidaActual
+actualEnIterador
+agregarAIterador 5
+agregarAIterador 6
+agregarAIterador 7
+reiniciarIterador
+estaDefinidaActual
+actualEnIterador
+avanzarIterador
+estaDefinidaActual
+agregarAIterador 5
+avanzarIterador
+estaDefinidaActual
+reiniciarIterador
+estaDefinidaActual
+actualEnIterador
+avanzarIterador
+estaDefinidaActual
+avanzarIterador
+actualEnIterador
+reversoDeIterador
+esVacioAbb
+buscarSubarbol 5
+insertarEnAbb (5,5.0)
+esVacioAbb
+buscarSubarbol 5
+buscarSubarbol 3
+raiz
+izquierdo
+derecho
+insertarEnAbb (50,50.0)
+insertarEnAbb (90,90.0)
+buscarSubarbol 80
+buscarSubarbol 90
+insertarEnAbb (85,85.0)
+insertarEnAbb (40,40.0)
+insertarEnAbb (4,4.0)
+insertarEnAbb (2,2.0)
+insertarEnAbb (7,7.0)
+insertarEnAbb (6,6.0)
+insertarEnAbb (11,11.0)
+insertarEnAbb (18,18.0)
+insertarEnAbb (17,17.0)
+raiz
+izquierdo
+derecho
+menorEnAbb
+mayorEnAbb
+buscarSubarbol 12
+buscarSubarbol 5
+buscarSubarbol 18
+removerDeAbb 5
+buscarSubarbol 5
+esVacioAbb
+removerDeAbb 2
+menorEnAbb
+mayorEnAbb
+derecho
+buscarSubarbol 2
+buscarSubarbol 17
+buscarSubarbol 38
+raiz
+izquierdo
+derecho
+linealizacion
+copiaAbb
+consAbb (10,10.0) 1 20
+esVacioAbb
+insertarEnAbb (5,5.0)
+linealizacion
+copiaAbb
+consAbb (9,9.0) 5 20
+consAbb (3,3.0) 1 5
+insertarEnAbb (2,2.0)
+insertarEnAbb (30,30.0)
+linealizacion
+imprimirAbb
+copiaAbb
+consAbb (26,26.0) 6 90
+reiniciarEstructuras
+esPerfecto
+insertarEnAbb (20,20.0)
+esPerfecto
+insertarEnAbb (30,30.0)
+insertarEnAbb (10,10.0)
+insertarEnAbb (5,5.0)
+insertarEnAbb (15,15.0)
+insertarEnAbb (25,25.0)
+insertarEnAbb (35,35.0)
+esPerfecto
+insertarEnAbb (2,2.0)
+insertarEnAbb (7,7.0)
+insertarEnAbb (12,12.0)
+insertarEnAbb (17,17.0)
+insertarEnAbb (22,22.0)
+insertarEnAbb (27,27.0)
+insertarEnAbb (32,32.0)
+esPerfecto
+insertarEnAbb (37,37.0)
+esPerfecto
+reiniciarEstructuras
+menores 20.0
+insertarEnAbb (20,20.00)
+menores 20.0
+menores 21.0
+insertarEnAbb (15,25.0)
+menores 21.0
+menores 25.0
+menores 26.0
+insertarEnAbb (10,10.0)
+menores 20.0
+insertarEnAbb (40,11.0)
+menores 11.0
+menores 12.0
+insertarEnAbb (50,5.0)
+menores 10.0
+menores 11.0
+insertarEnAbb (30,15.0)
+insertarEnAbb (25,6.0)
+insertarEnAbb (35,10.0)
+menores 10.0
+menores 11.0
+menores 6.0
+insertarEnAbb (32,5.0)
+menores 6.0
+menores 12.0
+insertarEnAbb (27,4.0)
+menores 5.0
+menores 12.0
+menores 11.0
+reiniciarEstructuras
+insertarEnAbb (20,20.00)
+insertarEnAbb (15,25.0)
+insertarEnAbb (10,10.0)
+insertarEnAbb (40,11.0)
+insertarEnAbb (50,5.0)
+insertarEnAbb (30,15.0)
+insertarEnAbb (25,6.0)
+insertarEnAbb (35,10.0)
+insertarEnAbb (32,5.0)
+insertarEnAbb (27,4.0)
+imprimirAbb
+caminoAscendente 20 0
+caminoAscendente 20 2
+caminoAscendente 40 0
+caminoAscendente 40 1
+caminoAscendente 40 2
+caminoAscendente 40 3
+caminoAscendente 15 0
+caminoAscendente 15 1
+caminoAscendente 15 2
+caminoAscendente 15 3
+caminoAscendente 50 0
+caminoAscendente 35 2
+caminoAscendente 32 0
+caminoAscendente 32 4
+caminoAscendente 32 6
+insertarPalabra al
+insertarPalabra cal
+insertarPalabra can
+insertarPalabra la
+insertarPalabra los
+insertarPalabra losas
+insertarPalabra mensaje
+imprimirPalabrasCortas 2
+imprimirPalabrasCortas 8
+buscarFinPrefijo c
+buscarFinPrefijo m
+buscarFinPrefijo losas
+buscarFinPrefijo mensaj
+reiniciarEstructuras
+estaOrdenada
+insertarAlInicio 51 0
+insertarAlInicio 50 1.0
+insertarAlInicio 50 0
+removerDeCadena 50
+insertarAlInicio 40 0
+insertarAlInicio 40 0
+insertarAlInicio 30 0
+estaOrdenada
+removerDeCadena 40
+estaOrdenada
+reiniciarEstructuras
+crearBalanceado 0
+crearBalanceado 1 (50, 0)
+crearBalanceado 2 (40, 0) (50, 0)
+crearBalanceado 8 (10, 0) (20, 0) (30, 0) (40, 0) (50, 0) (60, 0) (70, 0) (1000, 0)
+reiniciarEstructuras
+mezclaCadenas 0 0
+mezclaCadenas 0 1 (50,0)
+mezclaCadenas 1 (50,0) 0
+mezclaCadenas 4 (20,1) (30,0) (40,3) (50,3) 3 (15,0) (30,0) (55,0)
+reiniciarEstructuras
+unionAbbs 0 0
+unionAbbs 1 (50,0) 0
+unionAbbs 0 1 (40,0)
+unionAbbs 4 (40,0) (30,0) (50,3) (20,0) 4 (40,0) (30,0) (50,0) (20,0)
+reiniciarEstructuras
+cantidadEnPila
+apilar (3,3.0)
+cantidadEnPila
+cima
+desapilar
+apilar (5,5.0)
+apilar (6,5.0)
+apilar (3,5.0)
+apilar (8,5.0)
+apilar (2,5.0)
+apilar (1,5.0)
+apilar (10,5.0)
+apilar (5,3.0)
+cima
+cantidadEnPila
+desapilar
+cantidadEnCola
+encolar (3,3.0)
+cantidadEnCola
+frente
+desencolar
+cantidadEnCola
+encolar (5,5.0)
+encolar (6,5.0)
+encolar (3,5.0)
+encolar (8,5.0)
+encolar (2,5.0)
+encolar (1,5.0)
+encolar (10,5.0)
+encolar (5,3.0)
+frente
+cantidadEnCola
+desencolar
+frente
+cantidadEnCola
+reiniciarEstructuras
+ordenadaPorModulo 2
+insertarAlInicio 50 50.0
+insertarAlInicio 50 60.0
+insertarAlInicio 11 11.0
+insertarAlFinal 40 40.0
+insertarAlFinal 54 0.0
+insertarAlFinal 49 0.0
+insertarAlFinal 121 0.0
+insertarAlFinal 18 0.0
+ordenadaPorModulo 9
+ordenadaPorModulo 7
+ordenadaPorModulo 11
+ordenadaPorModulo 6
+reiniciarEstructuras
+menoresQueElResto
+insertarAlInicio 50 50.0
+menoresQueElResto
+insertarAlInicio 60 40.0
+menoresQueElResto
+insertarAlFinal 60 60.0
+insertarAlFinal 60 70.0
+insertarAlInicio 50 40.0
+insertarAlInicio 30 30.0
+insertarAlFinal 40 40.0
+insertarAlFinal 50 5.0
+insertarAlFinal 61 60.0
+insertarAlFinal 62 60.0
+insertarAlFinal 63 60.0
+insertarAlFinal 64 60.0
+insertarAlFinal 65 60.0
+insertarAlFinal 60 60.0
+insertarAlFinal 70 70.0
+insertarAlFinal 60 6.0
+insertarAlFinal 70 7.0
+menoresQueElResto
+insertarAlFinal 10 1.0
+menoresQueElResto
+Fin

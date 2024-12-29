@@ -1,0 +1,54 @@
+# implementar invertirPrioridad
+insertarEnCP 5 5.0
+insertarEnCP 6 6.0
+prioritario
+eliminarPrioritario
+eliminarPrioritario
+estaVaciaCP
+invertirPrioridad
+insertarEnCP 5 5.0
+insertarEnCP 6 6.0
+prioritario
+insertarEnCP 3 9.0
+insertarEnCP 2 -19.0
+insertarEnCP 10 19.0
+insertarEnCP 5 15.0
+prioritario
+prioridad 10
+prioridad 5
+eliminarPrioritario
+estaEnCP 10
+prioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+estaVaciaCP
+eliminarPrioritario
+estaVaciaCP
+invertirPrioridad
+insertarEnCP 5 5.0
+insertarEnCP 6 6.0
+prioritario
+insertarEnCP 3 9.0
+insertarEnCP 2 -19.0
+insertarEnCP 10 19.0
+prioritario
+invertirPrioridad
+prioritario
+prioridad 10
+eliminarPrioritario
+prioritario
+prioridad 3
+eliminarPrioritario
+prioritario
+prioridad 6
+eliminarPrioritario
+prioritario
+prioridad 5
+eliminarPrioritario
+prioritario
+prioridad 2
+estaVaciaCP
+eliminarPrioritario
+estaVaciaCP
+Fin

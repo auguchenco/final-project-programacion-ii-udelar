@@ -1,0 +1,54 @@
+1>#  implementar invertirPrioridad.
+2>Se intenta insertar 5 con prioridad 5.00.
+3>Se intenta insertar 6 con prioridad 6.00.
+4>El prioritario es 5
+5>Se intenta eliminar el prioritario.
+6>Se intenta eliminar el prioritario.
+7>La cp está vacia.
+8>Se cambió el criterio de prioridad.
+9>Se intenta insertar 5 con prioridad 5.00.
+10>Se intenta insertar 6 con prioridad 6.00.
+11>El prioritario es 6
+12>Se intenta insertar 3 con prioridad 9.00.
+13>Se intenta insertar 2 con prioridad -19.00.
+14>Se intenta insertar 10 con prioridad 19.00.
+15>Se intenta insertar 5 con prioridad 15.00.
+16>El prioritario es 10
+17>La prioridad de 10 es 19.00.
+18>La prioridad de 5 es 15.00.
+19>Se intenta eliminar el prioritario.
+20>En la cp no está 10.
+21>El prioritario es 5
+22>Se intenta eliminar el prioritario.
+23>Se intenta eliminar el prioritario.
+24>Se intenta eliminar el prioritario.
+25>La cp está no vacía.
+26>Se intenta eliminar el prioritario.
+27>La cp está vacia.
+28>Se cambió el criterio de prioridad.
+29>Se intenta insertar 5 con prioridad 5.00.
+30>Se intenta insertar 6 con prioridad 6.00.
+31>El prioritario es 5
+32>Se intenta insertar 3 con prioridad 9.00.
+33>Se intenta insertar 2 con prioridad -19.00.
+34>Se intenta insertar 10 con prioridad 19.00.
+35>El prioritario es 2
+36>Se cambió el criterio de prioridad.
+37>El prioritario es 10
+38>La prioridad de 10 es 19.00.
+39>Se intenta eliminar el prioritario.
+40>El prioritario es 3
+41>La prioridad de 3 es 9.00.
+42>Se intenta eliminar el prioritario.
+43>El prioritario es 6
+44>La prioridad de 6 es 6.00.
+45>Se intenta eliminar el prioritario.
+46>El prioritario es 5
+47>La prioridad de 5 es 5.00.
+48>Se intenta eliminar el prioritario.
+49>El prioritario es 2
+50>La prioridad de 2 es -19.00.
+51>La cp está no vacía.
+52>Se intenta eliminar el prioritario.
+53>La cp está vacia.
+54>Fin.

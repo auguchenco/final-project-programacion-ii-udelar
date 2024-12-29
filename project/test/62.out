@@ -1,0 +1,56 @@
+1>#  implementar prioritario, prioridad, insertarEnCP.
+2>Se intenta insertar 5 con prioridad 15.00.
+3>Se intenta insertar 25 con prioridad 10.00.
+4>El prioritario es 5
+5>Se intenta insertar 11 con prioridad 15.00.
+6>Se intenta insertar 0 con prioridad 5.00.
+7>El prioritario es 5
+8>La prioridad de 5 es 15.00.
+9>Se intenta insertar 5 con prioridad 15.00.
+10>En la cp está 5.
+11>El prioritario es 5
+12>La prioridad de 5 es 15.00.
+13>Se intenta insertar 5 con prioridad 10.00.
+14>En la cp está 5.
+15>El prioritario es 5
+16>La prioridad de 5 es 10.00.
+17>Se intenta insertar 6 con prioridad 1.00.
+18>En la cp está 5.
+19>La prioridad de 5 es 10.00.
+20>El prioritario es 6
+21>La prioridad de 6 es 1.00.
+22>Se intenta insertar 8 con prioridad -1.00.
+23>Se intenta insertar 7 con prioridad 7.00.
+24>Se intenta insertar 10 con prioridad -0.50.
+25>Se intenta insertar 1 con prioridad 12.00.
+26>Se intenta insertar 2 con prioridad 2.00.
+27>Se intenta insertar 9 con prioridad 9.20.
+28>Se intenta insertar 3 con prioridad 3.30.
+29>Se intenta insertar 4 con prioridad 4.00.
+30>El prioritario es 8
+31>La prioridad de 8 es -1.00.
+32>En la cp está 1.
+33>La prioridad de 1 es 12.00.
+34>En la cp está 10.
+35>La prioridad de 10 es -0.50.
+36>Se intenta insertar 8 con prioridad 4.80.
+37>El prioritario es 10
+38>Se intenta insertar 10 con prioridad -5.50.
+39>El prioritario es 10
+40>La prioridad de 10 es -5.50.
+41>Se intenta insertar 10 con prioridad 5.50.
+42>El prioritario es 6
+43>La prioridad de 6 es 1.00.
+44>Se intenta insertar 1 con prioridad 22.00.
+45>La prioridad de 1 es 22.00.
+46>Se intenta insertar 1 con prioridad -22.00.
+47>El prioritario es 1
+48>La prioridad de 1 es -22.00.
+49>Se intenta insertar 6 con prioridad 1.00.
+50>La prioridad de 6 es 1.00.
+51>Se intenta insertar 6 con prioridad 7.50.
+52>La prioridad de 6 es 7.50.
+53>Se intenta insertar 7 con prioridad -70.00.
+54>El prioritario es 7
+55>La prioridad de 7 es -70.00.
+56>Fin.

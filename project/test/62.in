@@ -1,0 +1,56 @@
+# implementar prioritario, prioridad, insertarEnCP
+insertarEnCP 5 15.0
+insertarEnCP 25 10.0
+prioritario
+insertarEnCP 11 15.0
+insertarEnCP 0 5.0
+prioritario
+prioridad 5
+insertarEnCP 5 15.0
+estaEnCP 5
+prioritario
+prioridad 5
+insertarEnCP 5 10.0
+estaEnCP 5
+prioritario
+prioridad 5
+insertarEnCP 6 1.0
+estaEnCP 5
+prioridad 5
+prioritario
+prioridad 6
+insertarEnCP 8 -1.0
+insertarEnCP 7 7.0
+insertarEnCP 10 -0.5
+insertarEnCP 1 12.0
+insertarEnCP 2 2.0
+insertarEnCP 9 9.2
+insertarEnCP 3 3.3
+insertarEnCP 4 4.0
+prioritario
+prioridad 8
+estaEnCP 1
+prioridad 1
+estaEnCP 10
+prioridad 10
+insertarEnCP 8 4.8
+prioritario
+insertarEnCP 10 -5.5
+prioritario
+prioridad 10
+insertarEnCP 10 5.5
+prioritario
+prioridad 6
+insertarEnCP 1 22.0
+prioridad 1
+insertarEnCP 1 -22.0
+prioritario
+prioridad 1
+insertarEnCP 6 1.0
+prioridad 6
+insertarEnCP 6 7.5
+prioridad 6
+insertarEnCP 7 -70.0
+prioritario
+prioridad 7
+Fin

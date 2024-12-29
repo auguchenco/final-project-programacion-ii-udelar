@@ -1,0 +1,200 @@
+reiniciarEstructuras
+imprimirCadena
+insertarAlInicio 5 5.0
+primeroEnCadena
+removerDeCadena 5
+insertarAlInicio 3 3.0
+insertarAlInicio 2 2.0
+estaOrdenada
+insertarAlInicio 6 6.0
+insertarAlInicio 5 5.0
+insertarAlInicio 8 6.0
+estaOrdenada
+removerDeCadena 6
+removerDeCadena 3
+removerDeCadena 8
+cantidadEnCadena
+estaEnCadena 5
+infoCadena 5
+imprimirCadena
+estaDefinidaActual
+agregarAIterador 5
+reiniciarIterador
+actualEnIterador
+avanzarIterador
+agregarAIterador 6
+agregarAIterador 7
+agregarAIterador 8
+agregarAIterador 9
+agregarAIterador 10
+reiniciarIterador
+actualEnIterador
+avanzarIterador
+actualEnIterador
+imprimirAbb
+linealizacion
+esVacioAbb
+esPerfecto
+buscarSubarbol 10
+copiaAbb
+insertarEnAbb (5, 5.0)
+esPerfecto
+copiaAbb
+menorEnAbb
+mayorEnAbb
+raiz
+izquierdo
+derecho
+insertarEnAbb (3, 3.0)
+insertarEnAbb (1, 1.0)
+imprimirAbb
+linealizacion
+insertarEnAbb (9, 8.0)
+insertarEnAbb (8, 9.0)
+esPerfecto
+caminoAscendente 8 4
+caminoAscendente 8 1
+menores 1
+menores 10
+menorEnAbb
+mayorEnAbb
+consAbb (6, 6.0) 2 20
+consAbb (6, 6.0) 3 20
+consAbb (6, 6.0) 2 9
+removerDeAbb 9
+removerDeAbb 5
+apilar (3, 3.0)
+desapilar
+cantidadEnPila
+apilar (3, 3.0)
+apilar (3, 3.0)
+apilar (3, 3.0)
+apilar (3, 3.0)
+desapilar
+cima
+encolar (3, 3.0)
+desencolar
+cantidadEnCola
+encolar (3, 3.0)
+encolar (3, 3.0)
+encolar (3, 3.0)
+encolar (3, 3.0)
+desencolar
+frente
+mezclaCadenas 0 0
+mezclaCadenas 0 1 (50,0)
+mezclaCadenas 1 (50,0) 0
+mezclaCadenas 4 (20,1) (30,0) (40,3) (50,3) 3 (15,0) (30,0) (55,0)
+crearBalanceado 0
+crearBalanceado 1 (50, 0)
+crearBalanceado 2 (40, 0) (50, 0)
+crearBalanceado 3 (30, 0) (40, 0) (50, 0)
+unionAbbs 0 0
+unionAbbs 1 (50,0) 0
+unionAbbs 0 1 (40,0)
+unionAbbs 4 (40,0) (30,0) (50,3) (20,0) 2 (50,0) (20,0)
+ordenadaPorModulo 2
+insertarAlInicio 50 50.0
+ordenadaPorModulo 2
+insertarAlInicio 50 60.0
+insertarAlInicio 11 11.0
+insertarAlFinal 40 40.0
+ordenadaPorModulo 2
+ordenadaPorModulo 3
+ordenadaPorModulo 4
+menoresQueElResto
+insertarAlInicio 50 50.0
+menoresQueElResto
+insertarAlFinal 50 5.0
+insertarAlFinal 61 60.0
+insertarAlFinal 62 60.0
+menoresQueElResto
+reiniciarEstructuras
+insertarAlInicio 5 5.0
+imprimirCadena
+insertarEnAbb (3, 3.0)
+imprimirAbb
+apilar (3, 3.0)
+cima
+encolar (3, 3.0)
+frente
+estaLlenoMap
+esClaveEnMap 5
+asociarEnMap 5 1.5
+desasociarEnMap 5
+esClaveEnMap 5
+estaLlenoMap
+asociarEnMap 5 2.5
+esClaveEnMap 5
+asociarEnMap 10 1.2
+asociarEnMap 20 1.3
+asociarEnMap 90 1.4
+asociarEnMap 80 1.5
+asociarEnMap 70 1.6
+asociarEnMap 60 1.7
+asociarEnMap 40 1.8
+asociarEnMap 30 1.9
+valorEnMap 5
+valorEnMap 30
+estaLlenoMap
+asociarEnMap 100 1.0
+desasociarEnMap 80
+esAvl
+insertarEnAbb (50,0)
+esAvl
+insertarEnAbb (20,0)
+insertarEnAbb (70,0)
+insertarEnAbb (15,0)
+esAvl
+avlMin 3
+filtradaOrdenada 5 5
+insertarAlFinal 6 6.0
+filtradaOrdenada -1
+filtradaOrdenada 6 0
+insertarAlFinal 6 5.0
+filtradaOrdenada 5 6 7 0
+estaVaciaCP
+estaEnCP 5
+eliminarPrioritario
+invertirPrioridad
+insertarEnCP 5 1
+prioritario
+prioridad 5
+eliminarPrioritario
+invertirPrioridad
+insertarEnCP 5 1
+insertarEnCP 5 15.0
+insertarEnCP 6 1.5
+insertarEnCP 8 -1.0
+insertarEnCP 7 7.0
+insertarEnCP 10 -0.5
+insertarEnCP 1 12.0
+insertarEnCP 2 2.0
+insertarEnCP 9 9.2
+insertarEnCP 3 3.3
+insertarEnCP 4 4.0
+estaEnCP 5
+prioridad 5
+prioritario
+estaEnCP 8
+prioridad 8
+eliminarPrioritario
+prioritario
+estaEnCP 5
+invertirPrioridad
+prioritario
+eliminarPrioritario
+prioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+estaVaciaCP
+prioritario
+eliminarPrioritario
+estaVaciaCP
+eliminarPrioritario
+Fin

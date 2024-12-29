@@ -1,0 +1,14 @@
+tiempo-abb 200000 1000 2
+tiempo-cadena 600000 200000 2
+tiempo-cola 200000 10 2
+tiempo-colCadenas 1000000 2000000 2
+tiempo-esAVL 400000 10 2
+tiempo-filtradaOrdenada 500000 1 2
+tiempo-iterador 100000 25000000 2
+tiempo-map 100000 4 2
+tiempo-menores 20 3 2
+tiempo-menoresQueElResto 300000 10 2
+tiempo-ordenadaPorModulo 30000 10 2
+tiempo-palabras 8 200000 2
+tiempo-pila 200000 10 2
+Fin

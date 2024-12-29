@@ -1,0 +1,40 @@
+estaEnCP 0
+estaEnCP 1
+estaEnCP 10
+estaEnCP 11
+estaVaciaCP
+insertarEnCP 1 2
+estaVaciaCP
+prioritario
+prioridad 1
+insertarEnCP 1 1
+prioridad 1
+eliminarPrioritario
+insertarEnCP 2 10
+prioritario
+eliminarPrioritario
+insertarEnCP 1 1
+insertarEnCP 2 10
+insertarEnCP 3 9
+insertarEnCP 4 8
+insertarEnCP 5 7
+insertarEnCP 6 6
+insertarEnCP 7 5
+insertarEnCP 8 4
+insertarEnCP 9 3
+insertarEnCP 10 -1
+insertarEnCP 1 1
+prioritario
+prioridad 1
+prioridad 10
+estaEnCP 1
+estaEnCP 2
+estaEnCP 10
+prioridad 1
+prioridad 2
+prioridad 10
+eliminarPrioritario
+prioritario
+eliminarPrioritario
+prioritario
+Fin
